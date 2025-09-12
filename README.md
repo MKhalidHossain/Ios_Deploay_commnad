@@ -24,8 +24,13 @@ flutter build ios --release
 
 ---
 
-## 3. Open Project in Xcode
+## 3. Open Project in Xcode (form VS code)
 
+```bash
+cd ios
+open Runner.xcworkspace
+```
+Open Project in Xcode (form cmd)
 ```bash
 cd path/to/your/flutter_project/ios
 open Runner.xcworkspace
