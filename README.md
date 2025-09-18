@@ -36,7 +36,7 @@ cd path/to/your/flutter_project/ios
 open Runner.xcworkspace
 ```
 
-> Always open `.xcworkspace`, not `.xcodeproj`.
+> Always open `.xcworkspace`, not `.xcodeproj`.-
 
 ---
 
