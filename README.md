@@ -28,6 +28,7 @@ flutter build ios --release
 
 ```bash
 cd ios
+pod install 
 open Runner.xcworkspace
 ```
 Open Project in Xcode (form cmd)
