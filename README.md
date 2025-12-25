@@ -34,6 +34,7 @@ open Runner.xcworkspace
 Open Project in Xcode (form cmd)
 ```bash
 cd path/to/your/flutter_project/ios
+pod install
 open Runner.xcworkspace
 ```
 
